@@ -4,7 +4,7 @@ Eu estava com tédio, e resolvi  tentar aprender um pouco de Discord.JS, apenas 
 
 Consistindo nisso, fiz um sistema baseado neste problema que assombra alguns desenvolvedores ~~(não sei quais)~~, que junta FS com SHELLJS, o sistema é mais ou menos assim:
 
-o FS escreve o comando que você colocou pra ele escrever num arquivo .sh, por exemplo:                               **slowhttptest -u testphp.vulnweb.com**                                                                                        
+o FS escreve o comando que você colocou pra ele escrever num arquivo .sh
 e após 5 segundos (para não dar o famoso erro que o arquivo foi editado rápido demais, derivado da limitação do Linux) ele usa a package shelljs para executar esse .sh, porque, se você for tentar fazer o shelljs executar esse comando inteiro, você não vai obter êxito.
 
 Logo após criar esse sisteminha, eu observei que seria inútil sem a presença de ARGS, e logo incluí um sistema args caso o utilizador do código precise.
