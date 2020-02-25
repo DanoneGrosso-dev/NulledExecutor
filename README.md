@@ -14,6 +14,6 @@ Discord.js
 Shelljs
 FS
 #### Dando a real
-Tudo isso foi com a ajuda de algumas pessoas no LabNegro, sem elas, eu não teria conseguido, eu só quis fazer este projeto, para adquirir conhecimento e ir contra essas pessoas que vendem este tipo de projeto, mas com o intuito de transformar-los em uma forma de ataque a sites ou sistemas, eu completamente repúdio atutides como essa, e resolvi soltar este projeto, que vários bots desse cunho usam.
+Tudo isso foi com a ajuda de algumas pessoas no LabNegro, sem elas, eu não teria conseguido, eu só quis fazer este projeto, para adquirir conhecimento e ir contra essas pessoas que vendem este tipo de projeto, infelizmente com o intuito de transformar-los em uma forma de ataque a sites ou sistemas, eu completamente repúdio atutides como essa, e resolvi soltar este projeto, que vários bots desse cunho usam.
 
 **Este projeto é completamente é destinado a uso educativo**
