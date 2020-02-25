@@ -1,0 +1,20 @@
+fs.writeFile('metodos/shelldometodo.sh', `comando que sera colocado na shell do arquivo, você pode usar ${args}`, function (err) {
+     if (err) throw err;
+     });
+
+     message.channel.send('Olha, você executou um comando no meu bot! que legal!')
+
+    setTimeout(function() {
+        shell.exec(`screen -d -m ./metodos/shelldometodo.sh`); // é recomendado que você use screen para executar o comando seu o seu bot paralisar :)
+    }, 6000);
+
+
+// se você quer usar tipo um arquivo .py ou .pl, é essencial, que em fs.writeFile você bote:
+// fs.writeFile('metodos/pingar.sh', `python python-super-legal.py ${args[0]}`, function (err) {
+
+// se quiser botar mais args, bote ${args[1]} e assim vai :)
+// por favor, se você for usar uma .sh, use chmod 777 nomedashell.sh
+// por favor, se você for usar uma .sh, use chmod 777 nomedashell.sh
+// por favor, se você for usar uma .sh, use chmod 777 nomedashell.sh
+// por favor, se você for usar uma .sh, use chmod 777 nomedashell.sh
+// por favor, se você for usar uma .sh, use chmod 777 nomedashell.sh

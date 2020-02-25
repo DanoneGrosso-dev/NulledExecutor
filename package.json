@@ -1,0 +1,25 @@
+{
+  "name": "nullexecutor",
+  "version": "1.0.0",
+  "description": "Um executor feito em base de Discord.js",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "fs": "^0.0.1-security",
+    "shelljs": "^0.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NulledPO/NulledExecutor.git"
+  },
+  "author": "pedrosawenex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NulledPO/NulledExecutor/issues"
+  },
+  "homepage": "https://github.com/NulledPO/NulledExecutor#readme"
+}
