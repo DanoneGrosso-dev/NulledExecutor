@@ -1,4 +1,4 @@
-#NulledExecutor
+# NulledExecutor
 #### Explicação sobre em que consiste esse projeto
 Eu estava com tédio, e resolvi  tentar aprender um pouco de Discord.JS, apenas decorar do que aprender não é mesmo? eu tinha em foco, um bot que executasse scripts de python, perl ou shell, do que você quiser, sem enfrentar as dificuldades que é achar uma package que permita você executar comandos ou scripts complexos, porque a maioria por algum motivo não executa scripts complexos :(
 
